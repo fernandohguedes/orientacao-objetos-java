@@ -29,9 +29,11 @@ public class Programa3 {
         System.out.println(nomes);
 
         System.out.println("=============================");
+
         System.out.println("Ordem reversa...");
         Collections.reverse(nomes);
         System.out.println(nomes);
+
         System.out.println("=============================");
 
         // fechando o Scanner
