@@ -2,7 +2,7 @@ package aula1;
 
 import java.util.Scanner;
 
-public class Programa1 {
+public class ProgramaAula1 {
 
     public static void main(String[] args) {
         /**

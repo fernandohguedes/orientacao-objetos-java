@@ -1,6 +1,6 @@
 package aula2;
 
-public class Programa1 {
+public class ProgramaAula2 {
     public static void main(String[] args) {
         Aluno aluno1 = new Aluno();
 
@@ -14,5 +14,6 @@ public class Programa1 {
         aluno2.nome = "Lasier";
         aluno2.matricula = 654321;
         aluno2.info();
+
     }
 }
